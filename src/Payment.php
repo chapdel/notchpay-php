@@ -48,7 +48,7 @@ class Payment extends ApiResource
         self::validateParams($params, true);
         $url = static::endPointUrl($reference);
 
-        return static::staticRequest('PUT', $url, $params);
+        return static::staticRequest('POST', $url, $params);
     }
 
     /**
