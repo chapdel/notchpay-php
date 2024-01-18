@@ -13,7 +13,7 @@ class NotchPay
     private $instanceApiKey;
 
     /** @var string The base URL for the Notch Pay API. */
-    public static $apiBase = 'https://api.notchpay.co';
+    public static $apiBase = 'https://api-dev1239.notchpay.co';
 
     /**
      * @return string the API key used for requests

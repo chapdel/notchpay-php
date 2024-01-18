@@ -1,5 +1,5 @@
 {
-    "name": "notchpay/notchpay-php",
+    "name": "chapdel/notchpay-php",
     "type": "library",
     "description": "Notch Pay PHP Wrapper.",
     "keywords": [
